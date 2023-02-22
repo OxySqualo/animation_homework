@@ -1,4 +1,5 @@
-# week_13
+# anumation_homework 
+homework from week 13 at IT Girls school
 
 A new Flutter project.
 
